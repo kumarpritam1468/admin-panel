@@ -82,3 +82,16 @@
     font-size: 1rem;
     font-weight: bold;
 }
+
+.content{
+    margin: auto;
+    display: flex;
+    height: 100%;
+    align-items: center;
+    margin-top: -4rem;
+}
+
+.content>div{
+    min-height: 75vh;
+    width: 100%;
+}
