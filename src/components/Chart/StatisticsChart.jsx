@@ -1,5 +1,4 @@
 import React from 'react';
-import css from './StatisticsChart.module.css';
 import ReactECharts from 'echarts-for-react';
 import * as echarts from 'echarts';
 
